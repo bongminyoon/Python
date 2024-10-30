@@ -1,4 +1,0 @@
-#%%
-star = '*'
-print(star)
-# %%
